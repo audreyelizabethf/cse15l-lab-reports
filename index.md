@@ -1,13 +1,19 @@
-# About Me
 
-**Name:** *Audrey Elizabeth Fernandez*
-> I have two pet `bunnies`
-> * Itchie
-> * and
-> * Scratchie
 
-I live in San Diego
+Lab Report 1 - Remote Access and FileSystem (Week 1)
 ---
-## School
-**Major:** *Computer Science*
-**Minor:** *Art History*
+1. Share an example of using the command with no arguments.
+2. Share an example of using the command with a path to a directory as an argument.
+3. Share an example of using the command with a path to a file as an argument.
+## cd
+1. -
+2. -
+3. -
+## ls
+1. -
+2. -
+3. -
+## cat
+1. -
+2. -
+3. -
