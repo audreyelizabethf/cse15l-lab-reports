@@ -20,38 +20,38 @@
 
 ## `$ ls`
 > `$ ls`
->  ![Image](Lab1_2.png)
-> * **Absolute** path to the working directory **before** the command was run: ~
-> * Why did I get this output?
-> * Is this output an error?
+>  ![Image](Lab1_6.png)
+> * **Absolute** path to the working directory **before** the command was run: ~/lecture1/lecture1
+> * I got this output because these are the files and folders within the given path.
+> * This output is not an error.
 
-> `$ ls path to directory`
-> ![Image]()
-> * **Absolute** path to the working directory **before** the command was run:
-> * Why did I get this output?
-> * Is this output an error?
+> `$ ls ~/lecture1/lecture1/folder`
+> ![Image](Lab1_8.png)
+> * **Absolute** path to the working directory **before** the command was run: ~lecture1/lecture1
+> * I got this output because myFile.txt is the only file inside the directory ~/lecture1/lecture1/folder
+> * This output is not an error
 
-> `$ ls path to file`
-> ![Image]()
-> * **Absolute** path to the working directory **before** the command was run:
-> * Why did I get this output?
-> * Is this output an error?
+> `$ ls ~/lecture1/lecture1/folder/myFile.txt`
+> ![Image](Lab1_9.png)
+> * **Absolute** path to the working directory **before** the command was run: ~/lecture1/lecture1
+> * I got this output because there are no files and folders in the given path.
+> * This output is not an error.
 
 ## `$ cat`
-> `$ ls`
-> ![Image](Lab1_3.png)
-> * **Absolute** path to the working directory **before** the command was run: ~
-> * Why did I get this output?
-> * Is this output an error?
+> `$ cat`
+> ![Image](Lab1_7.png)
+> * **Absolute** path to the working directory **before** the command was run: ~/lecture1/lecture1
+> * I got this output because there are no contents in the files given by the path that can be printed by this command.
+> * This output is not an error.
 
-> `$ ls path to directory`
-> ![Image]()
-> * **Absolute** path to the working directory **before** the command was run:
-> * Why did I get this output?
-> * Is this output an error?
+> `$ cat ~/lecture1/lecture1/folder`
+> ![Image](Lab1_10.png)
+> * **Absolute** path to the working directory **before** the command was run: ~/lecture1/lecture1
+> * I got this output because there is nothing inside this directory that can be printed by this command.
+> * This output is not an error.
 
-> `$ ls path to file`
-> ![Image]()
-> * **Absolute** path to the working directory **before** the command was run:
-> * Why did I get this output?
-> * Is this output an error?
+> `$ cat ~/lecture1/lecture1/folder/myFile.txt`
+> ![Image](Lab1_11.png)
+> * **Absolute** path to the working directory **before** the command was run: ~/lecture1/lecture1
+> * I got this output because "Hello, World!" is the contents of this file.
+> * This output is not an error.
