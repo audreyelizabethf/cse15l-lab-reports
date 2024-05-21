@@ -6,3 +6,5 @@
 ---
 # [Lab Report 3 - Bugs and Commands (Week 5)](https://audreyelizabethf.github.io/cse15l-lab-reports/labReport3.html)
 ---
+# [Lab Report 4 - Bugs and Commands (Week 5)](https://audreyelizabethf.github.io/cse15l-lab-reports/labReport4.html)
+---
